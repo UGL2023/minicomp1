@@ -31,6 +31,7 @@ collections:
       source: "raw_images/minicomp" # path to the directory of images within `_data`
     pdf:
       source: "raw_images/minicomp"  # path to the directory of images within `_data`
+      
 
 
  
