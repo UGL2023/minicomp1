@@ -30,7 +30,7 @@ collections:
     images:
       source: "raw_images/minicomp" # path to the directory of images within `_data`
     pdf:
-      source: "raw_pdf/minicomp"  
+      source: "raw_images/minicomp"  # path to the directory of images within `_data`
 
 
  
