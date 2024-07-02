@@ -1,4 +1,4 @@
-title: University of Guyana
+title: Home
 subtitle: 
 author:
   name: Wax user
@@ -79,7 +79,7 @@ menu:
         link: "/exhibits/subset/"
       - label: "Image References"
         link: "/exhibits/references/"    
-  - label: "Help"
-    link: "/help/"
+  - label: "Contact Us"
+    link: "/contact us/"
   - label: "About"
     link: "/about/"

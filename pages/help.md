@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ask a Librarian
-permalink: /help/
+title: Librarians
+permalink: /contact us/
 ---
 <br>  
 
