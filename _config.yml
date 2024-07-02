@@ -19,6 +19,7 @@ baseurl: "/minicomp"
 # For more info, refer to:
 # ~> https://jekyllrb.com/docs/collections/
 
+
 collections:
   exhibits:
     output: true
@@ -35,7 +36,7 @@ collections:
 
 
  
- 
+
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
